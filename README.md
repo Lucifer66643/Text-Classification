@@ -25,7 +25,7 @@ The model was trained using the Adam optimizer and categorical cross-entropy los
 
 The model achieved the following performance metrics on the test set:
 
-- **Accuracy**: ~90%
+- **Accuracy**: ~90% for imdb_reviews dataset & ~25% for ag_news_subset dataset
 - **Precision and Recall**: Detailed per-category metrics are visualized in the notebook
 - **Confusion Matrix**: Highlights classification performance across categories
 
